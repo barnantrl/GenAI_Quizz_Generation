@@ -37,3 +37,9 @@ Cette chaîne de pensée est ensuite extraite et affichée à l'utilisateur dans
 1. Cloner le repo :
    ```bash
    git clone <votre-lien-repo>
+
+2. Installer les dépendances :
+   pip install -r requirements.txt
+
+3. Lancement :
+   streamlit run src/app.py
